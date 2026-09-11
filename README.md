@@ -15,9 +15,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📌 Dự án nổi bật
-- **[Ứng dụng Dự đoán Giá Vàng](https://github.com/nguyen-hai-anh06/project)**  
-  Ứng dụng web dùng Streamlit + Machine Learning để dự đoán giá vàng
+
 
 ### 📫 Liên hệ
 - GitHub: [nguyen-hai-anh06](https://github.com/nguyen-hai-anh06)
