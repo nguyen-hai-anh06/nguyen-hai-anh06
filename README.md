@@ -1,16 +1,23 @@
-## Hi there 👋
+# Xin chào, mình là Nguyễn Hải Anh 👋
 
-<!--
-**nguyen-hai-anh06/nguyen-hai-anh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sinh viên năm 2 ngành **AI** - Trường Đại học Giao thông Vận tải TP.HCM  
+📍 Hồ Chí Minh, Việt Nam
 
-Here are some ideas to get you started:
+### 🔭 Đang học & quan tâm
+- Machine Learning & Deep Learning
+- Xây dựng ứng dụng AI thực tế với Python
+- Streamlit, Scikit-learn, Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📌 Dự án nổi bật
+- **[Ứng dụng Dự đoán Giá Vàng](https://github.com/nguyen-hai-anh06/project)**  
+  Ứng dụng web dùng Streamlit + Machine Learning để dự đoán giá vàng
+
+### 📫 Liên hệ
+- GitHub: [nguyen-hai-anh06](https://github.com/nguyen-hai-anh06)
